@@ -1,7 +1,7 @@
 name: revist Tests
 on:
   push:
-    branches: [master]
+    branches: [main]
 
 jobs:
   test:
